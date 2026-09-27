@@ -1,0 +1,8 @@
+{
+  "uuid": "english-on-lock@denis",
+  "name": "English on Lock",
+  "description": "Switches to the first keyboard layout when the screen locks and restores each window's layout after unlock.",
+  "session-modes": ["user", "unlock-dialog"],
+  "shell-version": ["45", "46", "47", "48"],
+  "version": 1
+}
